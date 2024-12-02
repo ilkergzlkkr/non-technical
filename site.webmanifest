@@ -1,0 +1,12 @@
+{
+  "$schema": "https://json.schemastore.org/web-manifest-combined.json",
+  "name": "Non Technical Quiz",
+  "short_name": "Non Technical Quiz",
+  "icons": [],
+  "theme_color": "#242424",
+  "background_color": "#242424",
+  "display": "standalone",
+  "start_url": "/non-technical",
+  "orientation": "any",
+  "prefer_related_applications": false
+}
